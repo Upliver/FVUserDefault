@@ -1,2 +1,2 @@
 # FVUserDefault
-如果你对系统的NSUserDefault感到不满，那么你可以看看这份代码了（FVUserDefault）
+FVUserDefault try to let us learn how to create a configuration file.
